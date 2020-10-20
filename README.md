@@ -1,2 +1,4 @@
-# gxc-team-13
-gxc-team-13 created by GitHub Classroom
+# Ecolution
+The team is composed by four people: Jenny, Anna, Francesco and Hemeka. Jenny will be organizing the tasks for the group.
+
+More information about our team could be found on the team wiki.

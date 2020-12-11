@@ -7,7 +7,9 @@ They can collaborates with other companies, get advices and individual measures 
 Based on their progress, businesses will be awarded an ecolution label to promote more consumer support for environmentally responsible businesses.
 
 ### The core freatures
-The core features of Ecolution are to provide a stronger network of companies for information sharing through our network, to assign an EcoLabel system to boost companies' social image, and to provide easier carbon emissions tracking. With these features in mind, we decided to use a sticky sidebar that allows for easy movement between the core features as well as a sticky header. The updated sticky sidebar includes tabs with reworked names and consistent icons: Dashboard, Graphs, Input Forms, News Feed, Participants, EcoLabels, Ecoprofit, and My Messages.
+The core features of Ecolution are to provide a stronger network of companies for information sharing through our network, to assign an EcoLabel system to boost companies' social image, and to provide easier carbon emissions tracking.\
+With these features in mind, we decided to use a sticky sidebar that allows for easy movement between the core features as well as a sticky header. \
+The updated sticky sidebar includes tabs with reworked names and consistent icons: Dashboard, Graphs, Input Forms, News Feed, Participants, EcoLabels, Ecoprofit, and My Messages.\
 The user can also access their company profile, settings, and logout button.
 
 ### Carbon Tracking

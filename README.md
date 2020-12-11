@@ -6,6 +6,10 @@ Every company gets access to a personal profile as well as graphs for visualizin
 They can collaborates with other companies, get advices and individual measures from ECOPROFIT program. \
 Based on their progress, businesses will be awarded an ecolution label to promote more consumer support for environmentally responsible businesses.
 
+### The core freatures
+The core features of Ecolution are to provide a stronger network of companies for information sharing through our network, to assign an EcoLabel system to boost companies' social image, and to provide easier carbon emissions tracking. With these features in mind, we decided to use a sticky sidebar that allows for easy movement between the core features as well as a sticky header. The updated sticky sidebar includes tabs with reworked names and consistent icons: Dashboard, Graphs, Input Forms, News Feed, Participants, EcoLabels, Ecoprofit, and My Messages.
+The user can also access their company profile, settings, and logout button.
+
 ### Carbon Tracking
 
 Ecolution provides user-friendly graphs that are available through the dashboard. The inputted carbon data from the companies are used to generate user-friendly graphs to motivate companies to continue on their journey to carbon neutrality.
@@ -27,5 +31,16 @@ Each article displays the author of the company and the topic. \
 They have the option to direct message the author of the article by pressing the Open Chat button (circled) on the bottom. Pressing the button will generate a chat popup (arrow). The messages to and from other companies through the Newsfeed tab can also be accessed on the message tab (arrow). Companies can also like the post by pressing the heart and see added comments.
 
 ![Network](https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-13/main/Version%202%20Prototype/Newsfeed%202.png?token=AL3VS6IJ5QLFFD4FBDXDWSC73SJJG)
+
+### Participants
+
+The Participant's List can be accessed on the header of the home page. This page shows all participating entities to the public and the users. It includes the participating business' company name, industry, assigned EcoLabels, time registered to Ecolution, and the total amount of CO2 reduce. The publicization of the EcoLabel is meant to help boost businesses' image as green business and increase consumer support for environmentally responsible entities.\
+The Company's page button leads you the company description. \
+This is the public view of the participants page.\
+The new map feature and other information are available.\
+The also is a button to directely open a chat and a butto for the bookmark function, but this options are only available for the sig-in user.
+
+
+![Partecipants](https://github.com/gxc-international-innovation-challenge/gxc-team-13/raw/main/Version%202%20Prototype/Public%20View%20of%20Participants%20page.png)
 
 

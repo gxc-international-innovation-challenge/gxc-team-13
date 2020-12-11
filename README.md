@@ -1,3 +1,4 @@
+## Ecolution
 Our team created Ecolution - an online platform that works with ECOPROFIT. 
 Ecolution is intended to popularize the idea of being an ecologically responsible business. 
 We aim to motivate, inspire, and connect the companies that want to reduce CO2. Ecolution helps the ECOPROFIT program to support existing members, and engage new businesses. 

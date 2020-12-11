@@ -41,6 +41,6 @@ The new map feature and other information are available.\
 The also is a button to directely open a chat and a butto for the bookmark function, but this options are only available for the sig-in user.
 
 
-![Partecipants](https://github.com/gxc-international-innovation-challenge/gxc-team-13/raw/main/Version%202%20Prototype/Public%20View%20of%20Participants%20page.png)
+![Partecipants](https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-13/main/Version%202%20Prototype/Public%20View%20of%20Participants%20page.png?token=AL3VS6OLOQYIUBU2ACILV5C73SL6G)
 
 

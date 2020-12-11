@@ -10,11 +10,13 @@ Based on their progress, businesses will be awarded an ecolution label to promot
 
 Ecolution provides user-friendly graphs that are available through the dashboard. The inputted carbon data from the companies are used to generate user-friendly graphs to motivate companies to continue on their journey to carbon neutrality.
 
-![alt text](https://github.com/gxc-international-innovation-challenge/gxc-team-13/blob/main/Version%202%20Prototype/Graphs.png)
+![alt text](https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-13/main/Version%202%20Prototype/Graphs.png?token=AL3VS6K6H7NZ3HAURI43FPS73SICA)
 
 ### EcoLabels
 
-Climate change is a growing issue that consumers are aware of and taking into account when looking for services. To boost support from environmentally conscious consumers, Ecolution awards EcoLabels that indicate a business's progress to carbon neutrality.
+The EcoLabel is assigned to companies based on their progress to carbon neutrality. There are four tiers: 25%, 50%, 75% and 100% to carbon neutrality. This is available to the users as well as the public. In Sprint 2, more EcoLabels were added along with information on what each Ecolabel stands for. This information is public available and can be accessed through the menu option under About. There are currently three categories of EcoLabels.
+
+![alt text](https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-13/main/ecolabel_presentation.jpg?token=AL3VS6JDM237AZIE2YLGCS273SIUS)
 
 
 ### Network

@@ -21,7 +21,7 @@ The City of Munich set the goal of reaching climate neutrality in 2035. To reach
 ---
 
 ## Solution
-Ecolution is an online platform that centralizes the tools for reducing carbon emissions. Participants can track their carbon emissions, visualize their progress, and boost their image as an environmentally responsible businesses all in one application. 
+Ecolution is an online platform that centralizes the tools for reducing carbon emissions. Participants can track their carbon emissions, visualize their progress, and boost their image as an environmentally responsible businesses all in one application. _**For instructions on how to use the Prototype, click [here](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Prototype).**_
 
 ### Visualization <img align="right" src="Prototype Instruction Images/Graph.png" width="240" height="160">
 
@@ -54,7 +54,6 @@ Ecolutions aims to provide a stronger community of businesses working together t
 To synthesize our research, our team created an [Empathy Map]() to identify areas of opportunity. Using the empathy map, we brainstormed ideas and voted for the idea we wanted. A draft storyboard was created to display our solution idea before it was further developed with the help of feedback. Then a press release and a list of Frequently Asked Questions (FAQs) were created to help the team think about what needs to be achieved with our prototype. 
      > _**More details in [Storyboard](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Storyboard), [Press Release](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Press-Release), [Stakeholder FAQs](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Stakeholder-FAQs), [Customers FAQ](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Customers-FAQs)**_
 - **Prototype:** The [first prototype](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Version-1-Prototype) was created and demoed with businesses and consumers. The demo test provided feedback on how to improve our prototype. Based on the feedback, the [second prototype](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Version-2-Prototype) improved its user-friendliness, added more clear definitions, and streamlined our core features. 
-     >  _**For instructions on how to use the Prototype, click [here](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Prototype).**_
      
 - **Business Model**: Creating a [Business Model](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Business-Model-Canvas) canvas, helped us identify how to make our pitch sustainable and more appealing. 
 

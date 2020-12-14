@@ -32,7 +32,7 @@ The inputted carbon data from the companies are used to generate user-friendly g
 
 
 ### Visibility
- Ecolution provides more visibility through the _Participants_ page. Consumers and other businesses can search up companies based on their name, size, and industry, locate environmental friendly businesses with the map function, and see the awarded Ecolabels. Ecolution provides an EcoLabel system that provides consumer more information on the business' progress to carbon neutrality and helps close the attitude-behavior gap of envionrmental conscious citizens. These are the three categories of awarded Ecolabels: 
+ Ecolution provides more visibility through the _Participants_ page. Consumers and other businesses can search up companies based on their name, size, and industry, locate environmental friendly businesses with the map function, and see the awarded Ecolabels. The Ecolution EcoLabels provides consumer more information on the business' progress to carbon neutrality and helps close the attitude-behavior gap of envionrmental conscious citizens. These are the three categories of awarded Ecolabels: 
 
 % to Carbon Neutrality     |  Ecolution Leader             | Registered Participants        | 
 :-------------------------:|:-----------------------------:|:------------------------------:|

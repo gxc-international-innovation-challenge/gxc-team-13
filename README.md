@@ -1,7 +1,10 @@
 
 # Ecolution
-<img align="left" src="Version 2 Prototype/ECOLUTION label.jpeg" width="150" height="150">
+<img align="left" src="Version 2 Prototype/ECOLUTION label.jpeg" width="200" height="200">
 Team 13 is a group of international undergraduates that created the online platform Ecolution for the City of Munich Department of Labor and Economics to help motivate businesses to conintue reducing carbon emissions during a time of crisis. Ecolution aims to motivate, inspire, and connect businesses that want to reduce CO2 by providng support to existing and potential members of ECOPROFIT through a centralized platform. 
+
+
+
 
 
 ---
@@ -18,9 +21,13 @@ The City of Munich set the goal of reaching climate neutrality in 2035. To reach
 Ecolution is an online platform that centralizes the tools for reducing carbon emissions. Participants can track their carbon emissions, visualize their progress, and boost their image as an environmentally responsible businesses all in one application. Ecolutions aims to provide a stronger community of businesses working together to reduce industry carbon emission. The website makes it easier for users to interact and collaborates with other businesses with its direct chat functions and newsfeed as well as share information about their implemented measures. To motivate businesses more, Ecolution also provide an EcoLabel system that provides consumer more information and helps close the attitude-behavior gap of envionrmental conscious citizens. 
 
 ### Visualization
-<img align="left" src="Prototype Instruction Images/Graph.png" width="200" height="150">
+<img align="right" src="Prototype Instruction Images/Graph.png" width="200" height="150">
 
 Ecolution provides user-friendly graphs that are available through the dashboard. The inputted carbon data from the companies are used to generate user-friendly graphs to motivate companies to continue on their journey to carbon neutrality.
+
+
+
+
 
 ### Visibility
 To close the attitide-behavior gap of consumers, Ecolution provides more visibility through the _Participants_ page and the Ecolabels. Consumers and other businesses can search up companies based on their name, size, and industry as well as locate their headquarters with the map function. The Ecolution EcoLabels is designed to give more information for consumers and are divided into the following categories: 

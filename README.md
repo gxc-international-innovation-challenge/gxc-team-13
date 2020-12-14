@@ -3,6 +3,9 @@
 <img align="left" src="Version 2 Prototype/ECOLUTION label.jpeg" width="150" height="150">
 Team 13 is a group of international undergraduates that created the online platform Ecolution for the City of Munich Department of Labor and Economics to help motivate businesses to conintue reducing carbon emissions during a time of crisis. Ecolution aims to motivate, inspire, and connect businesses that want to reduce CO2 by providng support to existing and potential members of ECOPROFIT through a centralized platform. 
 
+   >_**Read more in [Team Canvas](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Problem-Statement)**_
+
+
 
 
 
@@ -21,7 +24,7 @@ The City of Munich set the goal of reaching climate neutrality in 2035. To reach
 Ecolution is an online platform that centralizes the tools for reducing carbon emissions. Participants can track their carbon emissions, visualize their progress, and boost their image as an environmentally responsible businesses all in one application. 
 
 ### Visualization
-<img align="right" src="Prototype Instruction Images/Graph.png" width="150" height="80">
+<img align="right" src="Prototype Instruction Images/Graph.png" width="180" height="100">
 
 The inputted carbon data from the companies are used to generate user-friendly graphs to motivate companies to continue on their journey to carbon neutrality. Ecolution provides Dashboard that shows a summary of user's carbon data and progress in carbon neutrality.
 
@@ -30,7 +33,7 @@ The inputted carbon data from the companies are used to generate user-friendly g
 
 
 ### Visibility
-To motivate businesses more, Ecolution also provide an EcoLabel system that provides consumer more information and helps close the attitude-behavior gap of envionrmental conscious citizens. Ecolution provides more visibility through the _Participants_ page. Consumers and other businesses can search up companies based on their name, size, and industry, locate environmental friendly businesses with the map function, and see the awarded Ecolabels. The Ecolution EcoLabels gives more information about business' progress to carbon neutrality to consumers and are divided into the following categories: 
+ Ecolution provides more visibility through the _Participants_ page. Consumers and other businesses can search up companies based on their name, size, and industry, locate environmental friendly businesses with the map function, and see the awarded Ecolabels. Ecolution provides an EcoLabel system that provides consumer more information on the business' progress to carbon neutrality and helps close the attitude-behavior gap of envionrmental conscious citizens. These are the three categories of awarded Ecolabels: 
 
 % to Carbon Neutrality     |  Ecolution Leader             | Registered Participants        | 
 :-------------------------:|:-----------------------------:|:------------------------------:|
@@ -49,7 +52,7 @@ Ecolutions aims to provide a stronger community of businesses working together t
 - **Research:** Research: To understand the scope of our challenge, we research existing measures for the current problem, ecological data, and verified statistics relevant to the problem. This narrowed our path to finding a viable solution for the City of Munich. More research was indulged in about Eco-Profit in order to utilize its full potential as well. 
      >  _**More details in [Research](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Research) and [Interview](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Interviews).**_
 - **Ideation:**    <img align="right" src="Storyboard_V2.JPG" width="300" height="250">
-To synthesize our research, our team created an [Empathy Map]() to set our core values clear among the team members. Using the empathy map, we brainstormed ideas and voted for the idea we wanted. A draft storyboard was created to display our solution idea before it was further developed with the help of feedback. Then a press release and a list of Frequently Asked Questions (FAQs) were created to help the team think about what needs to be achieved with our prototype. 
+To synthesize our research, our team created an [Empathy Map]() to identify areas of opportunity. Using the empathy map, we brainstormed ideas and voted for the idea we wanted. A draft storyboard was created to display our solution idea before it was further developed with the help of feedback. Then a press release and a list of Frequently Asked Questions (FAQs) were created to help the team think about what needs to be achieved with our prototype. 
      > _**More details in [Storyboard](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Storyboard), [Press Release](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Press-Release), [Stakeholder FAQs](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Stakeholder-FAQs), [Customers FAQ](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Customers-FAQs)**_
 - **Prototype:** The [first prototype](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Version-1-Prototype) was created and demoed with businesses and consumers. The demo test provided feedback on how to improve our prototype. Based on the feedback, the [second prototype](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Version-2-Prototype) improved its user-friendliness, added more clear definitions, and streamlined our core features. 
      >  _**For instructions on how to use the Prototype, click [here](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Prototype).**_

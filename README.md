@@ -23,8 +23,7 @@ The City of Munich set the goal of reaching climate neutrality in 2035. To reach
 ## Solution
 Ecolution is an online platform that centralizes the tools for reducing carbon emissions. Participants can track their carbon emissions, visualize their progress, and boost their image as an environmentally responsible businesses all in one application. 
 
-### Visualization
-<img align="right" src="Prototype Instruction Images/Graph.png" width="180" height="100">
+### Visualization <img align="right" src="Prototype Instruction Images/Graph.png" width="240" height="160">
 
 The inputted carbon data from the companies are used to generate user-friendly graphs to motivate companies to continue on their journey to carbon neutrality. Ecolution provides Dashboard that shows a summary of user's carbon data and progress in carbon neutrality.
 

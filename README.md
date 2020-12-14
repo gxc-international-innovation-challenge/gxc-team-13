@@ -13,12 +13,19 @@ Based on their progress, businesses will be awarded an ecolution label to promot
 
 ---
 
-# Core Features
-The core features of Ecolution are to provide a stronger network of companies for information sharing through our network, to assign an EcoLabel system to boost companies' social image, and to provide easier carbon emissions tracking.\
-With these features in mind, we decided to use a sticky sidebar that allows for easy movement between the core features as well as a sticky header. \
-The updated sticky sidebar includes tabs with reworked names and consistent icons: Dashboard, Graphs, Input Forms, News Feed, Participants, EcoLabels, Ecoprofit, and My Messages.\
-The user can also access their company profile, settings, and logout button.
+# Problem Statement
+The problem that we tried to face is the fact that the City of Munich set the goal of reaching climate neutrality in 2035. \
+Reaching that goal isn't an easy challange expecially during time of crisis like the corona one that we are facing right now. \
+Fight Climate change and motivate company to climate protection is what we want to achive.
 
+# Solution
+We developed a platform called Ecolution that has the goal of motivate people to reduce their CO2 emmission. \
+In order to do that Ecolution wants to provide a stronger network of companies for information sharing through our network. \
+Ecolution also provide an EcoLabel system to boost companies' social image, in order to motivate the companies even more. \
+Ecolution provide easier carbon emissions tracking, and some easy user-friendly graphs that helps you visualize and keep tracking of your emission.\
+
+
+# Core Features
 ## Visualization
 
 Ecolution provides user-friendly graphs that are available through the dashboard. The inputted carbon data from the companies are used to generate user-friendly graphs to motivate companies to continue on their journey to carbon neutrality.

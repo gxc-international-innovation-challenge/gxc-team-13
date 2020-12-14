@@ -19,6 +19,7 @@ Ecolution provides user-friendly graphs that are available through the dashboard
 ![Graphs](https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-13/main/Version%202%20Prototype/Graphs.png?token=AL3VS6K6H7NZ3HAURI43FPS73SICA)
 
 ### EcoLabels
+<img align="right" src="https://github.com/gxc-international-innovation-challenge/gxc-team-13/blob/main/Version%202%20Prototype/25%20label.jpeg" width="100">
 
 The EcoLabel is assigned to companies based on their progress to carbon neutrality. There are four tiers: 25%, 50%, 75% and 100% to carbon neutrality. This is available to the users as well as the public. In Sprint 2, more EcoLabels were added along with information on what each Ecolabel stands for. This information is public available and can be accessed through the menu option under About. There are currently three categories of EcoLabels.
 

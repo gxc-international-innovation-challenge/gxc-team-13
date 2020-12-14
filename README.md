@@ -1,6 +1,9 @@
-<img src="https://github.com/gxc-international-innovation-challenge/gxc-team-13/blob/main/Version%202%20Prototype/ECOLUTION%20label.jpeg" width="100">
+<p align="center">
+  <img src="https://github.com/gxc-international-innovation-challenge/gxc-team-13/blob/main/Version%202%20Prototype/ECOLUTION%20label.jpeg" width="200" height="200">
+</p>
 
 # Ecolution
+
 Our team created Ecolution - an online platform that works with ECOPROFIT.\
 Ecolution is intended to popularize the idea of being an ecologically responsible business. \
 We aim to motivate, inspire, and connect the companies that want to reduce CO2. Ecolution helps the ECOPROFIT program to support existing members, and engage new businesses. \
@@ -29,7 +32,8 @@ The EcoLabel is assigned to companies based on their progress to carbon neutrali
 
 % to Carbon Neutrality     |  Ecolution Leader             | Registered Participants        | 
 :-------------------------:|:-----------------------------:|:------------------------------:|
-<img src="https://github.com/gxc-international-innovation-challenge/gxc-team-13/blob/main/Version%202%20Prototype/25%20label.jpeg" width="100">|<img src="https://github.com/gxc-international-innovation-challenge/gxc-team-13/blob/main/Version%202%20Prototype/ecolabel%20leader.png" width="100">|<img src="https://github.com/gxc-international-innovation-challenge/gxc-team-13/blob/main/Version%202%20Prototype/Ecolabel%20Participants.png" width="100">
+<img src="https://github.com/gxc-international-innovation-challenge/gxc-team-13/blob/main/Version%202%20Prototype/25%20label.jpeg" width="100"> | <img src="https://github.com/gxc-international-innovation-challenge/gxc-team-13/blob/main/Version%202%20Prototype/ecolabel%20leader.png" width="100"> | <img src="https://github.com/gxc-international-innovation-challenge/gxc-team-13/blob/main/Version%202%20Prototype/Ecolabel%20Participants.png" width="100">
+
 
 ## Networking
 
@@ -52,6 +56,9 @@ The also is a button to directely open a chat and a butto for the bookmark funct
 ![Partecipants](https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-13/main/Version%202%20Prototype/Public%20View%20of%20Participants%20page.png?token=AL3VS6OLOQYIUBU2ACILV5C73SL6G)
 
 ---
+### GitHub Pages
+Check out our [Github Pages](https://gxc-international-innovation-challenge.github.io/gxc-team-13/).
+
 ### Wiki Navigation
 * [Home](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki)
 * [Team Canvas](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Team-Canvas)

@@ -23,7 +23,7 @@ The user can also access their company profile, settings, and logout button.
 
 Ecolution provides user-friendly graphs that are available through the dashboard. The inputted carbon data from the companies are used to generate user-friendly graphs to motivate companies to continue on their journey to carbon neutrality.
 
-![Graphs](https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-13/main/Version%202%20Prototype/Graphs.png?token=AL3VS6K6H7NZ3HAURI43FPS73SICA)
+![Graphs](https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-13/main/Graphs_cutted.png?token=AL3VS6OO2TG3E6MT2LT7HR274BPIO)
 
 ### Visibility
 <img align="right" src="https://github.com/gxc-international-innovation-challenge/gxc-team-13/blob/main/Version%202%20Prototype/25%20label.jpeg" width="100">
@@ -38,20 +38,17 @@ The EcoLabel is assigned to companies based on their progress to carbon neutrali
 ### Networking
 
 The easy networking capabilities strengthens collaboration between allow participating companies to share information on what climate conscious strategies that they have implemented and message representatives from other entities. \
-Companies can input articles through the News Feed tab simply by typing up their topic and pressing upload. The generated articles and additional functions are shown in the next image.\
+Companies can input articles through the News Feed tab simply by typing up their topic and pressing upload, once a topic is pubblicated other companies can get in contact with you thought a chat box or some comment. \
+This will share knowledge about some applied strategies.
 Each article displays the author of the company and the topic. \
-They have the option to direct message the author of the article by pressing the Open Chat button (circled) on the bottom. Pressing the button will generate a chat popup (arrow). The messages to and from other companies through the Newsfeed tab can also be accessed on the message tab (arrow). Companies can also like the post by pressing the heart and see added comments.
 
-![Network](https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-13/main/Version%202%20Prototype/Newsfeed%202.png?token=AL3VS6IJ5QLFFD4FBDXDWSC73SJJG)
+![Network](https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-13/main/network.gif?token=AL3VS6IUE4F5SJXZFIK6W2K74BPJG)
 
 ## Participants
 
-The Participant's List can be accessed on the header of the home page. This page shows all participating entities to the public and the users. It includes the participating business' company name, industry, assigned EcoLabels, time registered to Ecolution, and the total amount of CO2 reduce. The publicization of the EcoLabel is meant to help boost businesses' image as green business and increase consumer support for environmentally responsible entities.\
-The Company's page button leads you the company description. \
-This is the public view of the participants page.\
-The new map feature and other information are available.\
-The also is a button to directely open a chat and a butto for the bookmark function, but this options are only available for the sig-in user.
-
+This page shows all participating entities to the public and the users. \
+Here you can see all the companies the are inside the project, sort them using some parameters, visualize them in the map and know their Ecolabels
+The publicization of the EcoLabel is also shown here in otder to help boost businesses' image as green business and increase consumer support for environmentally responsible entities.\
 
 ![Partecipants](https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-13/main/Version%202%20Prototype/Public%20View%20of%20Participants%20page.png?token=AL3VS6OLOQYIUBU2ACILV5C73SL6G)
 

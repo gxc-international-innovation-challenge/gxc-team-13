@@ -13,26 +13,19 @@ Based on their progress, businesses will be awarded an ecolution label to promot
 
 ---
 
-# Problem Statement
-The problem that we tried to face is the fact that the City of Munich set the goal of reaching climate neutrality in 2035. \
-Reaching that goal isn't an easy challange expecially during time of crisis like the corona one that we are facing right now. \
-Fight Climate change and motivate company to climate protection is what we want to achive.
+## Core Features
+The core features of Ecolution are to provide a stronger network of companies for information sharing through our network, to assign an EcoLabel system to boost companies' social image, and to provide easier carbon emissions tracking.\
+With these features in mind, we decided to use a sticky sidebar that allows for easy movement between the core features as well as a sticky header. \
+The updated sticky sidebar includes tabs with reworked names and consistent icons: Dashboard, Graphs, Input Forms, News Feed, Participants, EcoLabels, Ecoprofit, and My Messages.\
+The user can also access their company profile, settings, and logout button.
 
-# Solution
-We developed a platform called Ecolution that has the goal of motivate people to reduce their CO2 emmission. \
-In order to do that Ecolution wants to provide a stronger network of companies for information sharing through our network. \
-Ecolution also provide an EcoLabel system to boost companies' social image, in order to motivate the companies even more. \
-Ecolution provide easier carbon emissions tracking, and some easy user-friendly graphs that helps you visualize and keep tracking of your emission.\
-
-
-# Core Features
-## Visualization
+### Visualization
 
 Ecolution provides user-friendly graphs that are available through the dashboard. The inputted carbon data from the companies are used to generate user-friendly graphs to motivate companies to continue on their journey to carbon neutrality.
 
 ![Graphs](https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-13/main/Version%202%20Prototype/Graphs.png?token=AL3VS6K6H7NZ3HAURI43FPS73SICA)
 
-## Visibility
+### Visibility
 <img align="right" src="https://github.com/gxc-international-innovation-challenge/gxc-team-13/blob/main/Version%202%20Prototype/25%20label.jpeg" width="100">
 
 The EcoLabel is assigned to companies based on their progress to carbon neutrality. There are four tiers: 25%, 50%, 75% and 100% to carbon neutrality. This is available to the users as well as the public. In Sprint 2, more EcoLabels were added along with information on what each Ecolabel stands for. This information is public available and can be accessed through the menu option under About. There are currently three categories of EcoLabels.
@@ -42,7 +35,7 @@ The EcoLabel is assigned to companies based on their progress to carbon neutrali
 <img src="Version 2 Prototype/25 label.jpeg" width="100"> | <img src="Version 2 Prototype/ecolabel leader.png" width="100"> | <img src="Version 2 Prototype/Ecolabel Participants.png" width="100">
 
 
-## Networking
+### Networking
 
 The easy networking capabilities strengthens collaboration between allow participating companies to share information on what climate conscious strategies that they have implemented and message representatives from other entities. \
 Companies can input articles through the News Feed tab simply by typing up their topic and pressing upload. The generated articles and additional functions are shown in the next image.\
@@ -63,15 +56,14 @@ The also is a button to directely open a chat and a butto for the bookmark funct
 ![Partecipants](https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-13/main/Version%202%20Prototype/Public%20View%20of%20Participants%20page.png?token=AL3VS6OLOQYIUBU2ACILV5C73SL6G)
 
 ---
-# Process
+## Process
 - **Research:** Research: To understand the scope of our challenge, we research existing measures for the current problem, ecological data, and verified statistics relevant to the problem. This narrowed our path to finding a viable solution for the City of Munich. More research was indulged in about Eco-Profit in order to utilize its full potential as well. 
      >  _**More details in [Research](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Research) and [Interview](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Interviews).**_
-- **Ideation:**  To synthesize our research, our team created an [Empathy Map]() to set our core values clear among the team members. Using the empathy map, we brainstormed ideas and voted for the idea we wanted. A draft storyboard was created to display our solution idea before it was further developed with the help of feedback. Then a press release and a list of Frequently Asked Questions (FAQs) were created to help the team think about what needs to be achieved with our prototype. 
-     > _**More details in [Storyboard], [Press Release], [Stakeholder FAQs], [Customer FAQ]
+- **Ideation:**    <img align="right" src="Storyboard_V2.JPG" width="300" height="250">
+To synthesize our research, our team created an [Empathy Map]() to set our core values clear among the team members. Using the empathy map, we brainstormed ideas and voted for the idea we wanted. A draft storyboard was created to display our solution idea before it was further developed with the help of feedback. Then a press release and a list of Frequently Asked Questions (FAQs) were created to help the team think about what needs to be achieved with our prototype. 
+     > _**More details in [Storyboard](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Storyboard), [Press Release](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Press-Release), [Stakeholder FAQs](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Stakeholder-FAQs), [Customers FAQ](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Customers-FAQs)
 - **Prototype:** 
      >  _**For instructions on how to use the Prototype, click [here](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Prototype).**_
-
-<img style="border-radius:50%" align="left" src="Storyboard_V2.JPG" />
 
 
 ---
@@ -96,5 +88,5 @@ Check out our [Github Pages](https://gxc-international-innovation-challenge.gith
   * [Version 1 Prototype](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Version-1-Prototype)
   * [Version 2 Prototype](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Version-2-Prototype)
 * [Business Model Canvas](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Business-Model-Canvas)
-* [[Final Presentation]](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Final-Presentation)
+* [Final Presentation](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Final-Presentation)
 

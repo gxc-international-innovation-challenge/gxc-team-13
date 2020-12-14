@@ -1,8 +1,7 @@
 
 # Ecolution
-<img align="left" src="Version 2 Prototype/ECOLUTION label.jpeg" width="100" height="100">
-Team 13 is a group of international undergraduates that created the online platform Ecolution for the City of Munich Department of Labor and Economics to help motivate businesses to conintue reducing carbon emissions during a time of crisis. Ecolution aims to motivate, inspire, and connect businesses that want to reduce CO2 by providng support to existing and potential members of ECOPROFIT. 
-
+<img align="left" src="Version 2 Prototype/ECOLUTION label.jpeg" width="200" height="200">
+Team 13 is a group of international undergraduates that created the online platform Ecolution for the City of Munich Department of Labor and Economics to help motivate businesses to conintue reducing carbon emissions during a time of crisis. Ecolution aims to motivate, inspire, and connect businesses that want to reduce CO2 by providng support to existing and potential members of ECOPROFIT through a centralized platform. 
 
 
 ---
@@ -10,6 +9,8 @@ Team 13 is a group of international undergraduates that created the online platf
 The City of Munich set the goal of reaching climate neutrality in 2035. To reach this goal, Department of Labor and Economics wants a digital solution that will result lead to a measurable decrease in carbon emissions by motivating businesses to reduce their emissions during a time of crisis. 
 
    >_**Read more in [Problem Statement](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Problem-Statement)**_
+
+
 
 ---
 
@@ -44,8 +45,10 @@ The easy networking capabilities strengthens collaboration and builds a stronger
 - **Ideation:**    <img align="right" src="Storyboard_V2.JPG" width="300" height="250">
 To synthesize our research, our team created an [Empathy Map]() to set our core values clear among the team members. Using the empathy map, we brainstormed ideas and voted for the idea we wanted. A draft storyboard was created to display our solution idea before it was further developed with the help of feedback. Then a press release and a list of Frequently Asked Questions (FAQs) were created to help the team think about what needs to be achieved with our prototype. 
      > _**More details in [Storyboard](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Storyboard), [Press Release](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Press-Release), [Stakeholder FAQs](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Stakeholder-FAQs), [Customers FAQ](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Customers-FAQs)**_
-- **Prototype:** 
+- **Prototype:** The [first prototype](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Version-1-Prototype) was created and demoed with businesses and consumers. The demo test provided feedback on how to improve our prototype. Based on the feedback, the [second prototype](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Version-2-Prototype) improved its user-friendliness, added more clear definitions, and streamlined our core features. 
      >  _**For instructions on how to use the Prototype, click [here](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Prototype).**_
+     
+- **Business Model**: Creating a [Business Model](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Business-Model-Canvas) canvas, helped us identify how to make our pitch sustainable and more appealing. 
 
 
 ---

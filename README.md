@@ -15,13 +15,12 @@ The City of Munich set the goal of reaching climate neutrality in 2035. To reach
 ---
 
 ## Solution
-We developed a platform called Ecolution that has the goal of motivate people to reduce their CO2 emmission. In order to do that Ecolution wants to provide a stronger network of companies for information sharing through our network. Ecolution also provide an EcoLabel system to boost companies' social image, in order to motivate the companies even more. Ecolution provide easier carbon emissions tracking, and some easy user-friendly graphs that helps you visualize and keep tracking of your emission. Every company gets access to a personal profile as well as graphs for visualizing their CO2 data. They can collaborates with other companies, get advices and individual measures from ECOPROFIT program. Based on their progress, businesses will be awarded an ecolution label to promote more consumer support for environmentally responsible businesses.
+Ecolution is an online platform that centralizes the tools for reducing carbon emissions. Participants can track their carbon emissions, visualize their progress, and boost their image as an environmentally responsible businesses all in one application. Ecolutions aims to provide a stronger community of businesses working together to reduce industry carbon emission. The website makes it easier for users to interact and collaborates with other businesses with its direct chat functions and newsfeed as well as share information about their implemented measures. To motivate businesses more, Ecolution also provide an EcoLabel system that provides consumer more information and helps close the attitude-behavior gap of envionrmental conscious citizens. 
 
 ### Visualization
+<img align="right" src="Prototype Instruction Images/Graph.png" width="200" height="150">
 
 Ecolution provides user-friendly graphs that are available through the dashboard. The inputted carbon data from the companies are used to generate user-friendly graphs to motivate companies to continue on their journey to carbon neutrality.
-
-![Graphs](https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-13/main/Graphs_cutted.png?token=AL3VS6OO2TG3E6MT2LT7HR274BPIO)
 
 ### Visibility
 To close the attitide-behavior gap of consumers, Ecolution provides more visibility through the _Participants_ page and the Ecolabels. Consumers and other businesses can search up companies based on their name, size, and industry as well as locate their headquarters with the map function. The Ecolution EcoLabels is designed to give more information for consumers and are divided into the following categories: 

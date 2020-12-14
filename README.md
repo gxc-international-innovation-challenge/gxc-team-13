@@ -18,19 +18,19 @@ The City of Munich set the goal of reaching climate neutrality in 2035. To reach
 ---
 
 ## Solution
-Ecolution is an online platform that centralizes the tools for reducing carbon emissions. Participants can track their carbon emissions, visualize their progress, and boost their image as an environmentally responsible businesses all in one application. Ecolutions aims to provide a stronger community of businesses working together to reduce industry carbon emission. The website makes it easier for users to interact and collaborates with other businesses with its direct chat functions and newsfeed as well as share information about their implemented measures. To motivate businesses more, Ecolution also provide an EcoLabel system that provides consumer more information and helps close the attitude-behavior gap of envionrmental conscious citizens. 
+Ecolution is an online platform that centralizes the tools for reducing carbon emissions. Participants can track their carbon emissions, visualize their progress, and boost their image as an environmentally responsible businesses all in one application. Ecolutions aims to provide a stronger community of businesses working together to reduce industry carbon emission. To motivate businesses more, Ecolution also provide an EcoLabel system that provides consumer more information and helps close the attitude-behavior gap of envionrmental conscious citizens. 
 
 ### Visualization
-<img align="right" src="Prototype Instruction Images/Graph.png" width="200" height="150">
+<img align="right" src="Prototype Instruction Images/Graph.png" width="150" height="80">
 
-Ecolution provides user-friendly graphs that are available through the dashboard. The inputted carbon data from the companies are used to generate user-friendly graphs to motivate companies to continue on their journey to carbon neutrality.
+The inputted carbon data from the companies are used to generate user-friendly graphs to motivate companies to continue on their journey to carbon neutrality. Ecolution provides Dashboard that shows a summary of user's carbon data and progress in carbon neutrality.
 
 
 
 
 
 ### Visibility
-To close the attitide-behavior gap of consumers, Ecolution provides more visibility through the _Participants_ page and the Ecolabels. Consumers and other businesses can search up companies based on their name, size, and industry as well as locate their headquarters with the map function. The Ecolution EcoLabels is designed to give more information for consumers and are divided into the following categories: 
+Ecolution provides more visibility through the _Participants_ page. Consumers and other businesses can search up companies based on their name, size, and industry, locate environmental friendly businesses with the map function, and see the awarded Ecolabels. The Ecolution EcoLabels gives more information about business' progress to carbon neutrality to consumers and are divided into the following categories: 
 
 % to Carbon Neutrality     |  Ecolution Leader             | Registered Participants        | 
 :-------------------------:|:-----------------------------:|:------------------------------:|
@@ -39,7 +39,7 @@ To close the attitide-behavior gap of consumers, Ecolution provides more visibil
 
 ### Networking
 
-The easy networking capabilities strengthens collaboration and builds a stronger support network between participating businesses. Businesses can share information on climate conscious strategies they have implemented, message representatives from other entities, and interact on posted articles.
+The easy networking capabilities strengthens collaboration and builds a stronger support network between participating businesses. The website makes it easier for users to share information on their implemented climate conscious strategies, and collaborate with other businesses. Users can message representatives from other entities and ECOPROFIT and interact on posted articles.
 
 ![Network](https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-13/main/network.gif?token=AL3VS6IUE4F5SJXZFIK6W2K74BPJG)
 

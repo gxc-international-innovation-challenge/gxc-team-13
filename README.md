@@ -32,7 +32,7 @@ The EcoLabel is assigned to companies based on their progress to carbon neutrali
 
 % to Carbon Neutrality     |  Ecolution Leader             | Registered Participants        | 
 :-------------------------:|:-----------------------------:|:------------------------------:|
-<img src="https://github.com/gxc-international-innovation-challenge/gxc-team-13/blob/main/Version%202%20Prototype/25%20label.jpeg" width="100"> | <img src="https://github.com/gxc-international-innovation-challenge/gxc-team-13/blob/main/Version%202%20Prototype/ecolabel%20leader.png" width="100"> | <img src="https://github.com/gxc-international-innovation-challenge/gxc-team-13/blob/main/Version%202%20Prototype/Ecolabel%20Participants.png" width="100">
+<img src="Version 2 Prototype/25 label.jpeg" width="100"> | <img src="https://github.com/gxc-international-innovation-challenge/gxc-team-13/blob/main/Version%202%20Prototype/ecolabel%20leader.png" width="100"> | <img src="https://github.com/gxc-international-innovation-challenge/gxc-team-13/blob/main/Version%202%20Prototype/Ecolabel%20Participants.png" width="100">
 
 
 ## Networking
@@ -63,6 +63,9 @@ The also is a button to directely open a chat and a butto for the bookmark funct
      > _**More details in [Storyboard], [Press Release], [Stakeholder FAQs], [Customer FAQ]
 - **Prototype:** 
      >  _**For instructions on how to use the Prototype, click [here](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Prototype).**_
+
+<img style="border-radius:50%" align="left" src="Version 2 Prototype/ecolabel leader.png" />
+
 
 ---
 ### GitHub Pages

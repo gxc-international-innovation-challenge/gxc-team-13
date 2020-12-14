@@ -17,14 +17,15 @@ The problem that we tried to face is the fact that the City of Munich set the go
 Reaching that goal isn't an easy challange expecially during time of crisis like the corona one that we are facing right now. \
 Fight Climate change and motivate company to climate protection is what we want to achive.
 
+   >_**Read more in [Problem Statement](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Problem-Statement)**_
+
+---
+
 ## Solution
 We developed a platform called Ecolution that has the goal of motivate people to reduce their CO2 emmission. \
 In order to do that Ecolution wants to provide a stronger network of companies for information sharing through our network. \
 Ecolution also provide an EcoLabel system to boost companies' social image, in order to motivate the companies even more. \
 Ecolution provide easier carbon emissions tracking, and some easy user-friendly graphs that helps you visualize and keep tracking of your emission.
-
-
-## Core Features
 
 ### Visualization
 
@@ -33,30 +34,25 @@ Ecolution provides user-friendly graphs that are available through the dashboard
 ![Graphs](https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-13/main/Graphs_cutted.png?token=AL3VS6OO2TG3E6MT2LT7HR274BPIO)
 
 ### Visibility
-<img align="right" src="https://github.com/gxc-international-innovation-challenge/gxc-team-13/blob/main/Version%202%20Prototype/25%20label.jpeg" width="100">
 
-The EcoLabel is assigned to companies based on their progress to carbon neutrality. There are four tiers: 25%, 50%, 75% and 100% to carbon neutrality. This is available to the users as well as the public. In Sprint 2, more EcoLabels were added along with information on what each Ecolabel stands for. This information is public available and can be accessed through the menu option under About. There are currently three categories of EcoLabels.
+The EcoLabel is assigned to companies based on their progress to carbon neutrality. This information is public available and can be accessed through the menu option under About. There are currently three categories of EcoLabels.
 
 % to Carbon Neutrality     |  Ecolution Leader             | Registered Participants        | 
 :-------------------------:|:-----------------------------:|:------------------------------:|
 <img src="Version 2 Prototype/25 label.jpeg" width="100"> | <img src="Version 2 Prototype/ecolabel leader.png" width="100"> | <img src="Version 2 Prototype/Ecolabel Participants.png" width="100">
 
-
-### Networking
-
-The easy networking capabilities strengthens collaboration between allow participating companies to share information on what climate conscious strategies that they have implemented and message representatives from other entities. \
-Companies can input articles through the News Feed tab simply by typing up their topic and pressing upload, once a topic is pubblicated other companies can get in contact with you thought a chat box or some comment. \
-This will share knowledge about some applied strategies.
-
-![Network](https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-13/main/network.gif?token=AL3VS6IUE4F5SJXZFIK6W2K74BPJG)
-
-### Participants
-
 This page shows all participating entities to the public and the users. \
 Here you can see all the companies the are inside the project, sort them using some parameters, visualize them in the map and know their Ecolabels
 The publicization of the EcoLabel is also shown here in otder to help boost businesses' image as green business and increase consumer support for environmentally responsible entities.
 
-![Partecipants](https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-13/main/Version%202%20Prototype/Public%20View%20of%20Participants%20page.png?token=AL3VS6OLOQYIUBU2ACILV5C73SL6G)
+
+
+### Networking
+
+The easy networking capabilities strengthens collaboration and builds a stronger support network between participating businesses. Businesses can share information on climate conscious strategies they have implemented, message representatives from other entities, and interact on posted articles.
+
+![Network](https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-13/main/network.gif?token=AL3VS6IUE4F5SJXZFIK6W2K74BPJG)
+
 
 ---
 ## Process

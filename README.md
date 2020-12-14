@@ -21,7 +21,7 @@ Fight Climate change and motivate company to climate protection is what we want 
 We developed a platform called Ecolution that has the goal of motivate people to reduce their CO2 emmission. \
 In order to do that Ecolution wants to provide a stronger network of companies for information sharing through our network. \
 Ecolution also provide an EcoLabel system to boost companies' social image, in order to motivate the companies even more. \
-Ecolution provide easier carbon emissions tracking, and some easy user-friendly graphs that helps you visualize and keep tracking of your emission.\
+Ecolution provide easier carbon emissions tracking, and some easy user-friendly graphs that helps you visualize and keep tracking of your emission.
 
 
 ## Core Features

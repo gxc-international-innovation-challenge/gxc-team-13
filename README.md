@@ -56,6 +56,14 @@ The also is a button to directely open a chat and a butto for the bookmark funct
 ![Partecipants](https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-13/main/Version%202%20Prototype/Public%20View%20of%20Participants%20page.png?token=AL3VS6OLOQYIUBU2ACILV5C73SL6G)
 
 ---
+# Process
+- **Research:** The initial brainstorming for our project was initiated by dividing the research into three main categories: Existing measures for the current problem, Ecological data, and verified statistics relevant to the problem. This ensured a narrowing of our path to finding a number of ideas as a viable solution to the existing problem in the city of Munich. More research was indulged in about Eco-Profit in order to utilize its full potential as well.
+     >  _**More details in [Research](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Research) and [Interview](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Interviews).**_
+- **Ideation:**  To synthesize our research, our team created an empathy map to set our core values and principles clear among the team members. Based on our empathy map, we brainstormed ideas before voting on the final idea. An initial draft Storyboard was created to display our solution idea to the general stakeholders. This was further developed further into the final Storyboard with the help of feedback. After brainstorming and discussion, a press release was created with a list of Frequently Asked Questions (FAQs) for customers and stakeholders separately to aid the general public’s accessibility to information for our solution.
+- **Prototype:** 
+     >  _**For instructions on how to use the Prototype, click [here](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Prototype).**_
+
+---
 ### GitHub Pages
 Check out our [Github Pages](https://gxc-international-innovation-challenge.github.io/gxc-team-13/).
 

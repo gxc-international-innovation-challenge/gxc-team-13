@@ -57,9 +57,10 @@ The also is a button to directely open a chat and a butto for the bookmark funct
 
 ---
 # Process
-- **Research:** The initial brainstorming for our project was initiated by dividing the research into three main categories: Existing measures for the current problem, Ecological data, and verified statistics relevant to the problem. This ensured a narrowing of our path to finding a number of ideas as a viable solution to the existing problem in the city of Munich. More research was indulged in about Eco-Profit in order to utilize its full potential as well.
+- **Research:** Research: To understand the scope of our challenge, we research existing measures for the current problem, ecological data, and verified statistics relevant to the problem. This narrowed our path to finding a viable solution for the City of Munich. More research was indulged in about Eco-Profit in order to utilize its full potential as well. 
      >  _**More details in [Research](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Research) and [Interview](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Interviews).**_
-- **Ideation:**  To synthesize our research, our team created an empathy map to set our core values and principles clear among the team members. Based on our empathy map, we brainstormed ideas before voting on the final idea. An initial draft Storyboard was created to display our solution idea to the general stakeholders. This was further developed further into the final Storyboard with the help of feedback. After brainstorming and discussion, a press release was created with a list of Frequently Asked Questions (FAQs) for customers and stakeholders separately to aid the general public’s accessibility to information for our solution.
+- **Ideation:**  To synthesize our research, our team created an [Empathy Map]() to set our core values clear among the team members. Using the empathy map, we brainstormed ideas and voted for the idea we wanted. A draft storyboard was created to display our solution idea before it was further developed with the help of feedback. Then a press release and a list of Frequently Asked Questions (FAQs) were created to help the team think about what needs to be achieved with our prototype. 
+     > _**More details in [Storyboard], [Press Release], [Stakeholder FAQs], [Customer FAQ]
 - **Prototype:** 
      >  _**For instructions on how to use the Prototype, click [here](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki/Prototype).**_
 

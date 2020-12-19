@@ -3,7 +3,7 @@
 <img align="left" src="Version 2 Prototype/ECOLUTION label.jpeg" width="150" height="150" style="margin-right:15px">
 Team 13 is a group of international undergraduates that created the online platform Ecolution for the City of Munich Department of Labor and Economics to help motivate businesses to conintue reducing carbon emissions during a time of crisis. Ecolution aims to motivate, inspire, and connect businesses that want to reduce CO2 by providng support to existing and potential members of ECOPROFIT through a centralized platform. 
 
-   >_**Read more in [Team Canvas](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki)**_
+   >_**Read more in [Wiki Home](https://github.com/gxc-international-innovation-challenge/gxc-team-13/wiki)**_
 
 
 
